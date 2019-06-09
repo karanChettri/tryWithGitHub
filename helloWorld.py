@@ -1,4 +1,3 @@
 import time
 
-print(time.time())
-print("hello world\n")
+print("{} : hello world\n".format(time.time()))
